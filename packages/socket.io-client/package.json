@@ -1,5 +1,5 @@
 {
-  "name": "socket.io-client",
+  "name": "@fnlb-project/socket.io-client",
   "version": "4.8.1",
   "description": "Realtime application framework client",
   "keywords": [
